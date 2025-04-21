@@ -1,0 +1,196 @@
+.rrr{
+    size: 100px;
+    display: flex;
+    border-radius: 50px;
+    border: 9px white solid;
+    margin: 10px;
+    width: 300px;
+    height: 15px;
+    
+    
+    
+    
+    
+}
+
+.inp{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+    
+
+    
+    
+}
+
+.header{
+    display: flex;
+    background-color:rgb(9, 185, 156)  ;
+    justify-content: center;
+}
+
+.gmail {
+    display: flex;
+    flex-wrap: wrap;
+    color: white; 
+    position: absolute;
+
+    
+}
+
+.number{
+ 
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    width: 110px;
+    height: 20px;
+    color: rgb(9, 185, 156);
+    right: 50px;
+    
+}
+
+.header2{
+    display: flex;
+    flex-direction: row;
+    color: rgb(9, 185, 156) ;
+    justify-content: space-evenly;
+    
+    
+}
+
+.compan{
+    display: flex ;
+    padding-top: 50px;
+    color: black;
+   
+    
+}
+
+.images{
+    display: flex;
+    gap: 30px;
+   
+    
+}
+
+.list{
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+   flex-direction: column;
+   padding-top: 40px;
+   padding-bottom: 20px;
+    
+}
+
+
+
+.you{
+    border-radius: 50px;
+    padding: 40px;
+  
+    
+}
+
+.main{
+  display: grid;
+  justify-content: space-evenly;
+   
+    
+}
+
+.footer{
+    display: flex;
+    background-color:  rgb(9, 185, 156);
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 200px;
+    color: white;
+    padding-top: 20px;
+    gap: 20px;
+    padding: 20px;
+    
+}
+
+.product{
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    color: white;
+   
+    
+}
+
+.press{
+    display: flex;
+    flex-direction: column;  
+    
+}
+
+
+.comp{
+    color: white;
+}
+.prod{
+    color: white;
+}
+.p4{
+    color: white;
+}
+.p5{
+    color: white;
+}
+.gap{
+    color: white;
+}
+.ww{ 
+    color: white;
+}
+.wwww{
+    color: white;
+}
+
+.Maf{
+    background-color:  rgb(9, 185, 156);
+    border-radius: 40px;
+    height: 80px;
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ddd{
+    background-color: white;
+    border-radius: 30px;
+    height: 50px;
+    width: 600px;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+
+}
+
+.butt{
+    background-color: rgb(255, 217, 0);
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+
+}
+
+.p{
+    color: white;
+    width: 75px;
+}
+
+
+
+
+
+
+
